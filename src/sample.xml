@@ -1,0 +1,38 @@
+<ABC>
+  <TAB1>
+    <PARAM>
+      <PARAMnature>2</PARAMnature>
+      <label>Speed</label>
+      <unit>km/h</unit>     
+    </PARAM>
+
+    <PARAM>
+      <PARAMnature>1</PARAMnature>
+      <label>Altitude</label>
+    </PARAM>
+    <PARAM>
+      <PARAMnature>1</PARAMnature>
+      <label>Altitude</label>
+    </PARAM>
+    <PARAM>
+      <PARAMnature>1</PARAMnature>
+      <label>Altitude</label>
+    </PARAM>
+    <PARAM>
+      <PARAMnature>1</PARAMnature>
+      <label>Altitude</label>
+    </PARAM>
+    <PARAM>
+      <PARAMnature>1</PARAMnature>
+      <label>Altitude</label>
+    </PARAM>
+    <PARAM>
+      <PARAMnature>1</PARAMnature>
+      <label>Altitude</label>
+    </PARAM>
+    <PARAM>
+      <PARAMnature>1</PARAMnature>
+      <label>Altitude</label>
+    </PARAM>
+  </TAB1>
+</ABC>
